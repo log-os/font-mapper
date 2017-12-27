@@ -1,0 +1,14 @@
+{
+  "name": "unidev",
+  "version": "0.0.4",
+  "description": "Converts text of non-unicode fonts to unicode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hindi"
+  ],
+  "author": "nautical",
+  "license": "UNLICENSED"
+}
